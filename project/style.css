@@ -1,132 +1,51 @@
-.big_block{
-    display:inline-block;
-    vertical-align: bottom;
-    width: 1600px;
-    margin-left:0px;
-    margin-bottom: 100px;
-    margin-right: 0px;
-    padding: 0px;
-    height: 1200px;
+.navigation{
+    list-style: none;
+    font-size: 13px;
+    margin: 0px 400px 0px 620px;
 }
-.top{
+.navigation a {
+    font-weight: 700;
+    line-height: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: cyan;
+}
+.navigation li {
     display: inline-block;
-    width: 700px;
-    margin-left: 525px;
-    margin-bottom: 50px;
-    margin-right: 525px;
-    padding: 0px;
+    margin: 5% 5% 5% 5%;
 }
-#People {
-    display: inline-block;
-    vertical-align: bottom;
-    width: 10px;
-    margin-bottom: 20px;
-    margin-right:60px;
-    margin-left:60px;
-    padding: 10px;
-    height: 40px;
+#botom {
+    margin: 5% 10% 5% 47%;
 }
-#Coffe {
-    display: inline-block;
-    vertical-align: bottom;
-    margin-left:60px ;
-    width: 10px;
-    margin-bottom: 20px;
-    margin-right:60px;
-    padding: 10px;
-    height: 40px;
-}
-#Happy_people {
-    display: inline-block;
-    vertical-align: bottom;
-    width: 10px;
-    margin-left:60px;
-    margin-bottom: 20px;
-    margin-right:60px ;
-    padding: 10px;
-    height: 40px;
-}
-#Girl {
-    display: inline-block;
-    vertical-align: bottom;
-    width: 10px;
-    margin-left:60px;
-    margin-bottom: 20px;
-    margin-right:0px;
-    padding: 10px;
-    height: 40px;
-}
-.left{
-    
-    vertical-align: bottom;
-    width: 600px;
-    margin-left:160px;
-    margin-bottom:100px;
-    margin-right:30px;
-    padding: 0px;
-    display:inline-block;
-}
-#first{
-    
+#second { 
+    display: inline-block;      
     vertical-align: bottom;
     width: 420px;
-    margin-left:60px;
-    margin-bottom: 20px;
-    margin-right:30px ;
+    margin: 5% 5% 5% 15%;
     padding: 10px;
     height: 500px;
-    display:inline-block;
 }
-#second{
-    
+#first  { 
+    display: inline-block;
     vertical-align: bottom;
     width: 420px;
-    margin-left:60px;
-    margin-bottom: 20px;
-    margin-right:30px ;
+    margin: 5% 5% 5% 15%;
     padding: 10px;
     height: 500px;
-    display:inline-block;
-}
-.right{
-    
-    vertical-align: bottom;
-    width: 600px;
-    margin-left:30px;
-    margin-bottom:100px;
-    margin-right:160px;
-    padding: 0px;
-    display:inline-block;
 }
 #third{
-    
+    display: inline-block;
     vertical-align: bottom;
     width: 420px;
-    margin-left:60px;
-    margin-bottom: 20px;
-    margin-right:30px ;
+    margin: 5% 5% 5% 15%;
     padding: 10px;
     height: 500px;
-    display:inline-block;
 }
 #four{
-    
+    display: inline-block;
     vertical-align: bottom;
     width: 420px;
-    margin-left:60px;
-    margin-bottom: 20px;
-    margin-right:30px ;
-    padding: 10px;
-    height: 500px;
-    display:inline-block;
-}
-#botom{
-    display: inline-block;
-    width: 200px;
-    margin-left: 750px;
-    margin-bottom: 50px;
-    margin-right: 750px;
+    margin: 5% 5% 5% 15%;
     padding: 0px;
-    height: 100px;
-    display:inline-block;
+    height: 500px;
 }
