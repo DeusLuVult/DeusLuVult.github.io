@@ -1,21 +1,46 @@
+@font-face {
+    font-family: "PlayFair Display Regular";
+    src: url(/fonts/PlayfairDisplay-Regular.otf);
+}
+@font-face {
+    font-family: "Ubuntu Light";
+    src: url(/fonts/Ubuntu\ Light.ttf);
+}
+
 .navigation{
     list-style: none;
-    font-size: 13px;
+    font-size: 14px;
     margin: 0px 400px 0px 620px;
 }
-.navigation a {
+.navigation a { 
+
     font-weight: 700;
     line-height: 16px;
     text-decoration: none;
     text-transform: uppercase;
     color: cyan;
+    font-family:PlayFair Display Regular; 
 }
-.navigation li {
+.navigation li  {
     display: inline-block;
     margin: 5% 5% 5% 5%;
 }
+.left h2 {
+    font-size: 30px;
+    font-family:PlayFair Display Regular; 
+    color: #737373;
+}
+.right h2 {
+    font-size: 30px;
+    font-family:PlayFair Display Regular; 
+    color: #737373;
+}
 #botom {
-    margin: 5% 10% 5% 47%;
+    margin: 5% 1% 5% 47%;
+    font-family:PlayFair Display Regular; 
+    font-size: 17px;
+    color:#737373;
+    width: 100px;
 }
 #second { 
     display: inline-block;      
@@ -24,6 +49,9 @@
     margin: 5% 5% 5% 15%;
     padding: 10px;
     height: 500px;
+    font-family:PlayFair Display Regular; 
+    font-size: 14px;
+    color:#737373;
 }
 #first  { 
     display: inline-block;
@@ -32,6 +60,9 @@
     margin: 5% 5% 5% 15%;
     padding: 10px;
     height: 500px;
+    font-family:PlayFair Display Regular; 
+    font-size: 14px;
+    color:#737373;
 }
 #third{
     display: inline-block;
@@ -40,6 +71,9 @@
     margin: 5% 5% 5% 15%;
     padding: 10px;
     height: 500px;
+    font-family:PlayFair Display Regular; 
+    font-size: 14px;
+    color:#737373;
 }
 #four{
     display: inline-block;
@@ -48,4 +82,12 @@
     margin: 5% 5% 5% 15%;
     padding: 0px;
     height: 500px;
+    font-family:PlayFair Display Regular; 
+    font-size: 14px;
+    color:##737373;
+}
+.text {
+    font-size: 14px;
+    color: #626262;
+    font-family: Ubuntu Light;
 }
