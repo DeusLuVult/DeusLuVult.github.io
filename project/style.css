@@ -10,7 +10,7 @@
 .navigation{
     list-style: none;
     font-size: 14px;
-    margin: 0px 400px 0px 620px;
+    margin: 0px 200px 0px 330px;
 }
 .navigation a { 
 
@@ -46,7 +46,7 @@
     display: inline-block;      
     vertical-align: bottom;
     width: 420px;
-    margin: 5% 5% 5% 15%;
+    margin: 5% 5% 5% 10%;
     padding: 10px;
     height: 500px;
     font-family:PlayFair Display Regular; 
@@ -57,7 +57,7 @@
     display: inline-block;
     vertical-align: bottom;
     width: 420px;
-    margin: 5% 5% 5% 15%;
+    margin: 5% 5% 5% 10%;
     padding: 10px;
     height: 500px;
     font-family:PlayFair Display Regular; 
@@ -68,7 +68,7 @@
     display: inline-block;
     vertical-align: bottom;
     width: 420px;
-    margin: 5% 5% 5% 15%;
+    margin: 5% 5% 5% 10%;
     padding: 10px;
     height: 500px;
     font-family:PlayFair Display Regular; 
@@ -79,12 +79,12 @@
     display: inline-block;
     vertical-align: bottom;
     width: 420px;
-    margin: 5% 5% 5% 15%;
+    margin: 5% 5% 5% 10%;
     padding: 0px;
     height: 500px;
     font-family:PlayFair Display Regular; 
     font-size: 14px;
-    color:##737373;
+    color:#737373;
 }
 .text {
     font-size: 14px;
