@@ -40,9 +40,10 @@
     color: #333333;
 }
 
-.info_block {
+.info {
     display: flex;
     align-items: center;
+    width: 311px
 }
 
 .icon {
