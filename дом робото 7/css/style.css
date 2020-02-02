@@ -1,127 +1,4 @@
-@media only screen and (min-width: 550px) {
-    .authorization {
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: flex-start;
-        margin: 0% 6.5%;
-    }
 
-    .authorization button {
-        margin-top: 3.8rem;
-    }
-
-    .site_name {
-        margin: 5rem 0rem 16rem 0rem;
-    }
-
-    .header_button, footer button {
-        max-width: 40%;
-    }
-
-}
-
-@media only screen and (min-width: 768px) {
-    header {
-        height: 700px;
-    }
-
-    .buttons {
-        justify-content: center;
-        width: auto;
-    }
-
-    main h2 {
-        margin-bottom: 3.7rem;
-    }
-
-    .header_title {
-        text-align: center;
-        font-size: 5.2rem;
-        width: 66%;
-        max-width: 66%;
-        
-    }
-
-    .header_describe {
-        font-size: 2.4rem;
-        margin: 4.4rem 0rem 3.9rem 0rem;
-    }
-
-    .welcome button {
-        max-width: 29%;
-    }
-
-    .partners {
-        display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-    }
-
-    .first {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        width: 28%;
-        margin-right: 6.512%;
-    }
-
-    .second {
-        display: flex;
-        
-        justify-content: center;
-        flex-direction: column;
-        width: 28%;
-    }
-
-    .name {
-        margin: 2.2rem 0rem;
-    }
-
-    .about_partner {
-        margin-bottom: 4rem;
-    }
-
-    footer button {
-        width: 25%;
-        max-width: 192px;
-    }
-}
-
-@media only screen and (min-width: 1024px) {
-    .authorization {
-        margin: 0% 17%;
-    }
-
-    .header_title {
-        max-width: 50%;
-    }
-
-    .welcome button {
-        max-width: 22%;
-    }
-    
-    .partner {
-        margin: 0% 3%;
-    }
-
-    .first, .second {
-        width: 45%;
-        flex-direction: row;
-        align-items: flex-start;
-        margin: 0%;
-    }
-
-    footer button {
-        max-width: 18.75%;
-    }
-}
-
-@media only screen and (min-width: 1440px){
-    .first, .second {
-        width: 31%;
-        align-items: flex-start;
-    }
-}
 @font-face {
     font-family: 'Montserrat';
     src: local(Montserrat), url(./fonts/Montserrat/Montserrat-Bold.otf);
@@ -311,3 +188,130 @@ footer button {
     max-width: 55%;
 }
 
+@media only screen and (min-width: 550px) {
+    .authorization {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin: 0% 6.5%;
+    }
+    .authorization button {
+        margin-top: 3.8rem;
+    }
+
+    .site_name {
+        margin: 5rem 0rem 16rem 0rem;
+    }
+
+    .header_button, footer button {
+        max-width: 40%;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+    header {
+        height: 700px;
+    }
+
+    .buttons {
+        justify-content: center;
+        width: auto;
+    }
+
+    main h2 {
+        margin-bottom: 3.7rem;
+    }
+
+    .header_title {
+        text-align: center;
+        font-size: 5.2rem;
+        width: 66%;
+        max-width: 66%;
+        
+    }
+
+    .header_describe {
+        font-size: 2.4rem;
+        margin: 4.4rem 0rem 3.9rem 0rem;
+    }
+
+    .welcome button {
+        max-width: 29%;
+    }
+
+    .partners {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+    }
+
+    .first {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 28%;
+        margin-right: 6.512%;
+    }
+
+    .second {
+        display: flex;
+        
+        justify-content: center;
+        flex-direction: column;
+        width: 28%;
+    }
+
+    .name {
+        margin: 2.2rem 0rem;
+    }
+
+    .about_partner {
+        margin-bottom: 4rem;
+    }
+
+    footer button {
+        width: 25%;
+        max-width: 192px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .authorization {
+        margin: 0% 17%;
+    }
+
+    .header_title {
+        max-width: 50%;
+    }
+
+    .welcome button {
+        max-width: 22%;
+    }
+    
+    .partner {
+        margin: 0% 3%;
+    }
+
+    .first, .second {
+        width: 45%;
+        flex-direction: row;
+        align-items: flex-start;
+        margin: 0%;
+    }
+
+    footer button {
+        max-width: 18.75%;
+    }
+}
+
+@media only screen and (min-width: 1440px){
+    .first, .second {
+        width: 31%;
+        align-items: flex-start;
+    }
+    header{
+         background-size: cover;
+    }
+
+}
