@@ -28,13 +28,14 @@
 //   }
 //6
 // let stack=[33,44,55];
-// stack.unshift(2);
-// stack.unshift(3);
-// stack.unshift(4);
-// stack.push(5);
-// stack.push(6);
-// stack.push(7);
-// stack.push(8);
+// const arr1=[2,3,4],
+//       arr2=[5,6,7,8]
+// for (let i=0; i<3; i++) {
+//         stack.unshift(arr1[i]); 
+//     }
+// for (let i=0; i<4; i++) {
+//     stack.push(arr2[i]);
+// }
 // console.log(stack)
 //7
 // let stack=[8,2,1,33,44,55];
@@ -54,11 +55,6 @@
 // let pets=["dog", "cat", "parrot"];
 // pets.splice(2,1,'shark', 'elephant')
 // console.log(pets)
-
-
-
-
-
 
 
 
