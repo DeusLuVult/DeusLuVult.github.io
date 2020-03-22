@@ -3,13 +3,13 @@
 //     let  arr1=[1, 5, '4','hello'];
 //     let  arr2=[true,2, {}, ['a'], 222];
 //   sum=arr1[1]+arr2[1];
-// console.log(arr1(1));
-// console.log(arr2(1));
+// console.log(arr1[1]);
+// console.log(arr2[1]);
 // console.log(sum);
-//2           
-// let arr1=[1,2,4,76,87]
-// arr1.push(33)
-// console.log(arr1)
+// 2           
+// let arr1=[1,2,4,76,87];
+// arr1.push(33);
+// console.log(arr1);
 //5
 // const message = 'Welcome to Ukraine!';
 // console.log(message.split(' '));
@@ -57,5 +57,4 @@
 // let pets=["dog", "cat", "parrot"];
 // pets.splice(2,1,'shark', 'elephant')
 // console.log(pets)
-
 
