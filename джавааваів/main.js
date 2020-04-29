@@ -1,35 +1,43 @@
-// for( let i=0; i<11; i++) {
-//     console.log(i);
-// }
+//1
+// let data = 1;
+// if (data<2){console.log(data);} 
+//  else{console.log("tochno net");};
 
-// for( let i=0; i<11; i++) {
-//     if (i%2==0){
-//         console.log("Число парне");
-//     }else {
-//         console.log("Число не парне");
-//     }
-// }
+//  2
 
-//  let num= 20;
-// while (num < 29) { 
-//   console.log( num);
-//   num++;
-// }
+// let data = 1;
+// if (data%2==0){console.log(data);} 
+//  else{console.log("uppss");};
 
+//   3
 
-// let result=0;
-// let arr=[5,3,6,2,4];
-// for (let i=0; i<arr.length; i++) {
-//     console.log(arr[i]);
-//     result=result+arr[i];
-// }
-// console.log(result)
-  
-let num=0;
-let arr=[-3,2,7,8,-11,2,5,2];
-for (let i=0; i<arr.length; i++){
-    if (arr[i]>0){
-        num+=arr[i];
-        
-    }
-}console.log(num);
+//  let cash=5;
+//  if (5%2==0){console.log(cash+"grn");}
+//   else{console.log(cash+"euro");}; 
+
+// 4
+
+// let number=55;
+// if (number>0 && number<16){
+//     console.log("child");
+// }else if(60>number && number>17){
+//      console.log("adult");
+//     } else if(10000>number && number>60){
+//       console.log("old");
+//     };
+
+//  5
+
+// let a=Math.floor(Math.random() * 2),
+// b=Math.floor(Math.random() * 2);
+// if(a===b){console.log("fart");}
+// else{console.log("not fart");};
+
+//  6
+
+// let name='Kolya',
+//     surname='Muzyka';
+//     width = (name.length);
+//     height = (surname.length);
+//     if(width>4 && height>5){console.log(width+height);}
+//     else{console.log("UPS");};
