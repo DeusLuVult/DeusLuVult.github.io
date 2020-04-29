@@ -46,38 +46,40 @@
 //     console.log(a3);
 //     console.log(a4);
 
-// let a6=5%3, 
-//     a7=3%5, 
-//     a8=5 +'3', 
-//     a9='5'-3,
-//     a10=75+'кг';
-//     alert(a6)
-//     alert(a7)
-//     alert(a8)
-//     alert(a9)
-//     alert(a10)
+// let a6=5%3;
+//     a7=3%5;
+//     a8=5%'3';
+//     a9='5'%3;
+//     a10=75+"kg";
+// alert(a6);
+// alert(a7);
+// alert(a8);
+// alert(a9);
+// alert(a10);
 
-// let height=23,
-//     width=10,
-//     s=height*width
-//     alert(s)
 
-// let heightC=10,
+// let height=23;
+//     width=10;
+//     s=height*width;
+//     alert(s);
+
+
+// let heightC=10;
 //     dC=4;
-//     dC=dC/2,
-//     v=3.14 * dC**2 * heightC;
-//     alert(v)
+//     const p=3.14;
+//     radius = dC/2;
+//     v=Math.pow(radius,2)*heightC*p;
+//     alert(v);
 
-// let a=3,
-//     b=4,
-//     c=0;
-//     c=Math.sqrt(a**2+b**2)
-//     alert(c)
 
-let s=2000000,
-    p=10,
-    years=5,
-    perepl=0;
-    perepl=2000000*10%;
-    perepl=perepel*5;
-    alert(perepl)
+// let n=3;
+//     m=4;
+//     k=Math.sqrt((Math.pow(3,2))+(Math.pow(4,2)))
+//     console.log(k);
+
+
+// let s=2000;
+//     p=10;
+//     years=5;
+//     perepl=((s/100*p)*5);
+//     console.log(perepl);
