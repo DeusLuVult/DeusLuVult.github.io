@@ -31,7 +31,7 @@
 //console.log (numbers);
 //4  
 // const hotel = {
-//     name: 'paulo',
+//     name: 'Pavlo',
 //     age: 14,
 //     maried: false,
 // };
