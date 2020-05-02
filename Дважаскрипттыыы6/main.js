@@ -1,12 +1,12 @@
 // //1
 // function hello1(){
-//     return alert("Привiт JavaScript")
+//     return alert("Привiт JavaScript");
 // }
 // hello1();
 // //2
 // let name="ПАвло";
 //     function hello2(){
-//         console.log ("Привiт,"+name)
+//         console.log ("Привiт,"+name);
 //     }
 // hello2();
 //3
